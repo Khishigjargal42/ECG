@@ -1,0 +1,18 @@
+# Virtual environments
+myenv/
+.venv/
+env/
+venv/
+
+# Python
+*.pyc
+__pycache__/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# OneDrive temporary files
+~$*
